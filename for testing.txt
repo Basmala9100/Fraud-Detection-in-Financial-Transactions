@@ -1,0 +1,24 @@
+NON fraud mail
+
+Hi, I hope you are well. I just wanted to follow up after the viewing we had on Friday at the Royal Winchester House. Have you made a decision on whether to proceed or not?
+
+
+
+Fraud mail 
+
+You have won a large sum in our lottery draw! Claim your winnings by clicking here.
+
+
+expected result is fraud
+
+  'Year': 2023,
+    'Month': 12,
+    'Day': 25,
+    'Hours': 2,
+    'Amount': 1500.00,
+    'Use_Chip': Swipe Transaction,
+    'Merchant_City': Las Vegas,
+    'Merchant_State': NV,
+    'Zip': 89109,
+    'MCC': 7995,
+    'Notes': 'Bad CVV'
